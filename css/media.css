@@ -27,6 +27,10 @@
         height: unset;
         max-height: unset;
     }
+
+    .carousel-caption h2 {
+        font-size: 20px;
+    }
 }
 
 @media screen and (max-width:575.98px) {
@@ -49,4 +53,10 @@
     .getin-touch-tagline {
         font-size: 17px;
     }
+
+    .carousel-caption h2 {
+        font-size: 18px;
+    }
+
+
 }
